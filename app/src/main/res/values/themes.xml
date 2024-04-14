@@ -5,14 +5,14 @@
     <style name="Theme.YNCConnect" parent="Theme.AppCompat.Light.DarkActionBar">
         <!-- Primary brand color. -->
         <item name="colorPrimary">@color/purple_500</item>
-        <item name="colorPrimaryDark">@color/purple_700</item>
+        <item name="colorPrimaryDark">@color/dark_blue</item>
         <item name="colorAccent">@color/teal_200</item>
         <!-- Customize your theme here. -->
     </style>
 
     <style name="NoActionBar" parent = "@style/Theme.AppCompat.Light.NoActionBar">
         <item name="colorPrimary">@color/purple_500</item>
-        <item name="colorPrimaryDark">@color/purple_700</item>
+        <item name="colorPrimaryDark">@color/dark_blue</item>
         <item name="android:windowActionBar">false</item>
         <item name="android:windowNoTitle">true</item>
     </style>
